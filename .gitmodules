@@ -1,0 +1,3 @@
+[submodule "vendor/mod"]
+	path = vendor/mod
+	url = git@github.com:Rejukes/konfex5mod.git
